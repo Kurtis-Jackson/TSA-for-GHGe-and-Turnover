@@ -1,2 +1,4 @@
 # TSA-for-GHGe-and-Turnover
-I'll add something to this at some point I swear
+CO2e analysis notebook = Generate your own models for ghge analysis
+Turnover analysis = Same for turnover
+Visualisation = Compare all models, generate GHGe/Turnover score
